@@ -4,6 +4,12 @@
 
 Bienvenue dans le repository GitHub de notre projet (fictif) visant à aider l'équipe d'e-commerce d'Olist à segmenter les clients en fonction de leur comportement et de leurs données personnelles, afin de mieux cibler leurs campagnes de communication.
 
+## Description des livrables
+
+Pseg_01_notebook_analyse.ipynb : notebook d'analyse exploratoire<br>
+Pseg_02_notebook_essais.ipynb : notebook d'implémentation de la segmentation RFM<br>
+Pseg_03_notebook_simulation.ipynb : notebook de simulation pour l'estimation de la fréquence de maintenance du clustering<br>
+
 ## Objectif du Projet
 
 Notre objectif est de fournir à l'équipe marketing d'Olist une segmentation des clients qui sera facilement utilisable au quotidien. Pour ce faire, nous utiliserons des méthodes non supervisées pour regrouper les clients ayant des profils similaires. Cette segmentation aidera l'équipe marketing à mieux comprendre les différents types d'utilisateurs et à optimiser leurs stratégies de communication.
